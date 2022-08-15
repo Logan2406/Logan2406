@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Logan2406/Miscellenuos/blob/main/banner.png)](https://github.com/Logan2406)
 
-<h1 align="center">Hi <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="40" height="40" /> I'm Jyoti Pravo Pal</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40" height="40" /> I'm Jyoti Pravo Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400px" src="https://github.com/Logan2406/Miscellenuos/blob/main/coder_image.gif">
 
