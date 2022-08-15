@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Logan2406/Miscellenuos/blob/main/banner.png)](https://github.com/Logan2406)
 
-<h1 align="center">Hi 👋, I'm Jyoti Pravo Pal</h1>
+<h1 align="center">Hi <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="40" height="40" /> I'm Jyoti Pravo Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400px" src="https://github.com/Logan2406/Miscellenuos/blob/main/coder_image.gif">
 
@@ -43,7 +43,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>	
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Logan2406/Miscellenuos/blob/main/Expressjs.png" alt="express" width="60" height="30"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Logan2406/Miscellenuos/blob/main/Expressjs.png" alt="express" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
