@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti Pravo Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding width:"400" src="https://github.com/Logan2406/Miscellenuos/blob/main/coder_image.gif">
+<img align="right" alt="Coding" width:"400" src="https://github.com/Logan2406/Miscellenuos/blob/main/coder_image.gif">
 
 - 🔭 I’m currently working on [BookStore App](link)
 
