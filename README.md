@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **TypeScript,MongoDB,Electron**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Logan2406?tab=repositories)
 
 - 💬 Ask me about **React, React Native, Java, Javascript,**
 
 - 📫 How to reach me **jyotipravopal@gmail.com**
 
-- 📄 Know about my experiences [portfolio link](https://jppal-portfolio.herokuapp.com/)
+- 📄 Know about my experiences [My Portfolio](https://jppal-portfolio.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
