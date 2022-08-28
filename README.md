@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jyotipravopal@gmail.com**
 
-- 📄 Know about my experiences [portfolio link](portfolio link)
+- 📄 Know about my experiences [portfolio link](https://jppal-portfolio.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
