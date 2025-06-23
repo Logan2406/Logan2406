@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400px" src="https://github.com/Logan2406/Miscellenuos/blob/main/coder_image.gif">
 
-- 🔭 I’m currently working on CarveByteApp- App that connects everyone in the food industry
+- 🔭 I’m currently working on **CarveByteApp**- App that connects everyone in the food industry
 
 - 🌱 I’m currently learning **Microservices, Python and MongoDB**
 
