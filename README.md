@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, React Native, Java, Javascript, Spring Boot, PostgreSQL, MySql**
 
-- 📫 How to reach me **logan24jun@gmail.com**
+- 📫 How to reach me **jyotippal15@gmail.com**
 
 - 📄 Know about my experiences :- Personal Blog Coming Soon....
 
