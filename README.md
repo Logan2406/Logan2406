@@ -4,17 +4,17 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400px" src="https://github.com/Logan2406/Miscellenuos/blob/main/coder_image.gif">
 
-- 🔭 I’m currently working on [CarveByteApp]
+- 🔭 I’m currently working on CarveByteApp- App that connects everyone in the food industry
 
-- 🌱 I’m currently learning **TypeScript,MongoDB,Electron**
+- 🌱 I’m currently learning **Microservices, Python and MongoDB**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Logan2406?tab=repositories)
 
-- 💬 Ask me about **React, React Native, Java, Javascript,**
+- 💬 Ask me about **React, React Native, Java, Javascript, Spring Boot, PostgreSQL, MySql**
 
-- 📫 How to reach me **jyotipravopal@gmail.com**
+- 📫 How to reach me **logan24jun@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://jppal-portfolio.herokuapp.com/)
+- 📄 Know about my experiences :- Personal Blog Coming Soon....
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
